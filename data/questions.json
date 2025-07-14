@@ -1,0 +1,79 @@
+[
+  {
+    "question": "Which event is most commonly used to detect a key press on the keyboard?",
+    "choix": ["onkeypress", "onkeydown", "onclick", "onfocus"],
+    "bonneReponse": "onkeydown",
+    "points": 1,
+    "tempsAlloue": 10
+  },
+  {
+    "question": "Which method returns the character at a specific index in a string?",
+    "choix": [
+      "characterAt()",
+      "getCharAt()",
+      "charAt()",
+      "None of these options is correct."
+    ],
+    "bonneReponse": "charAt()",
+    "points": 1,
+    "tempsAlloue": 10
+  },
+  {
+    "question": "Where is it appropriate to include JavaScript code within an HTML document?",
+    "choix": [
+      "Within the <head> section",
+      "Within the <body> section",
+      "Both the <head> and <body> sections are acceptable"
+    ],
+    "bonneReponse": "Both the <head> and <body> sections are acceptable",
+    "points": 1,
+    "tempsAlloue": 10
+  },
+  {
+    "question": "What is the correct syntax for declaring an array in JavaScript?",
+    "choix": [
+      "var colors = (1:'red', 2:'green', 3:'blue')",
+      "var colors = ['red', 'green', 'blue']",
+      "var colors = 'red', 'green', 'blue'",
+      "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')"
+    ],
+    "bonneReponse": "var colors = ['red', 'green', 'blue']",
+    "points": 1,
+    "tempsAlloue": 10
+  },
+  {
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "choix": ["<link>", "<a>", "<href>", "<nav>"],
+    "bonneReponse": "<a>",
+    "points": 1,
+    "tempsAlloue": 10
+  },
+  {
+    "question": "Which CSS property is used to change the text color of an element?",
+    "choix": ["font-color", "color", "text-style", "text-color"],
+    "bonneReponse": "color",
+    "points": 1,
+    "tempsAlloue": 5
+  },
+  {
+    "question": "Which keyword is used to declare a constant variable in JavaScript?",
+    "choix": ["let", "var", "const", "define"],
+    "bonneReponse": "const",
+    "points": 1,
+    "tempsAlloue": 5
+  },
+  {
+    "question": "Which attribute specifies the URL of an image in the <img> tag?",
+    "choix": ["href", "link", "src", "url"],
+    "bonneReponse": "src",
+    "points": 1,
+    "tempsAlloue": 5
+  },
+  {
+    "question": "Which HTML element is used to structure rows in a table?",
+    "choix": ["<table>", "<row>", "<td>", "<tr>"],
+    "bonneReponse": "<tr>",
+    "points": 1,
+    "tempsAlloue": 5
+  }
+]
