@@ -1,5 +1,5 @@
 # Timed quiz
---
+
 
 
 Built with Nextjs 15 and bootstrap.
